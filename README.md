@@ -1,2 +1,22 @@
-# Recent-RGB-D-RGB-T-SOD-Papers
+# Recent-RGB-D-and-RGB-T-SOD-Papers
 A curated collection of recent RGB-D/RGB-T salient object detection papers, code, and notes.
+
+## RGB-D SOD Papers
+
+## 2026
+
+| No. | Pub. | Title | Links |
+|:---:|:----:|-------|:-----:|
+| 01 | - | Paper Title | [Paper](-) / [Code](-) |
+| 02 | - | Paper Title | [Paper](-) / [Code](-) |
+| 03 | - | Paper Title | [Paper](-) / [Code](-) |
+
+## RGB-T SOD Papers
+
+## 2026
+
+| No. | Pub. | Title | Links |
+|:---:|:----:|-------|:-----:|
+| 01 | - | Paper Title | [Paper](-) / [Code](-) |
+| 02 | - | Paper Title | [Paper](-) / [Code](-) |
+| 03 | - | Paper Title | [Paper](-) / [Code](-) |
