@@ -10,7 +10,7 @@ A curated collection of recent RGB-D/RGB-T salient object detection papers, code
 | No. | Pub. | Title | Links |
 |:---:|:----:|-------|:-----:|
 | 01 | IEEE TCSVT | Diffusion-driven RGB-D Salient Object Detection with Temporal Modulation | [Paper](https://ieeexplore.ieee.org/abstract/document/11483127) / [Code](https://github.com/Shixiang02/DiffRGBD) |
-| 02 | - | Paper Title | [Paper](-) / [Code] |
+| 02 | IEEE TMM | STENet: Superpixel Token Enhancing Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11474739)) / [Code] |
 | 03 | - | Paper Title | [Paper](-) / [Code] |
 
 ---
