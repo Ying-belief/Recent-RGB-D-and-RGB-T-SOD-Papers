@@ -35,8 +35,6 @@ A curated collection of recent RGB-D/RGB-T salient object detection papers, code
 
 ## 2026
 
-## 2026
-
 | No. | Pub. | Title | Links |
 |:---:|:----:|-------|:-----:|
 | 01 | IEEE TIP | Asymmetric Feature Consistency Reinforcement Network for Visual-Depth-Thermal Salient Object Detection and a New Benchmark | [Paper](https://ieeexplore.ieee.org/abstract/document/11515002) / [Code](github.com/215HH/LiTR-2654)|
