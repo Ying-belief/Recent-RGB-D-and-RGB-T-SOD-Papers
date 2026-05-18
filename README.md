@@ -28,3 +28,17 @@ A curated collection of recent RGB-D/RGB-T salient object detection papers, code
 | 05 | - | Paper Title | [Paper](-) / [Code] |
 | 06 | - | Paper Title | [Paper](-) / [Code] |
 | 07 | - | Paper Title | [Paper](-) / [Code] |
+
+---
+
+## RGB-D-T / VDT SOD Papers
+
+## 2026
+
+## 2026
+
+| No. | Pub. | Title | Links |
+|:---:|:----:|-------|:-----:|
+| 01 | IEEE TIP | Asymmetric Feature Consistency Reinforcement Network for Visual-Depth-Thermal Salient Object Detection and a New Benchmark | [Paper](https://ieeexplore.ieee.org/abstract/document/11515002) / [Code](github.com/215HH/LiTR-2654)|
+| 02 | - | Paper Title | [Paper](-) / [Code] |
+| 03 | - | Paper Title | [Paper](-) / [Code] |
