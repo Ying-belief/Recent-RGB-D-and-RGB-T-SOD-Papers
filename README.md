@@ -22,7 +22,7 @@ A curated collection of recent RGB-D/RGB-T salient object detection papers, code
 
 | No. | Pub. | Title | Links |
 |:---:|:----:|-------|:-----:|
-| 01 | IEEE TMM | SAMSOD: Rethinking SAM Optimization for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11353917) / [Code] |
+| 01 | IEEE TMM | SAMSOD: Rethinking SAM Optimization for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11353917) / [Code](https://github.com/liuzywen/SAMSOD) |
 | 02 | IEEE TCSVT | Empirical Study on Fusion Strategy in RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11386836) / [Code] |
 | 03 | AAAI | Breaking Alignment Barriers: TPS-Driven Semantic Correlation Learning for Alignment-Free RGB-T Salient Object Detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/42492) / [Code] |
 | 04 | IEEE TCSVT | RSONet: Region-guided Selective Optimization Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11428245) / [Code] |
