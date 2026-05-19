@@ -3,7 +3,7 @@ A curated collection of recent RGB-D/RGB-T salient object detection papers, code
 
 ---
 
-## RGB-D SOD Papers
+## 1. RGB-D SOD Papers
 
 ## 2026
 
@@ -16,7 +16,7 @@ A curated collection of recent RGB-D/RGB-T salient object detection papers, code
 
 ---
 
-## RGB-T SOD Papers
+## 2. RGB-T SOD Papers
 
 ## 2026
 
@@ -32,7 +32,7 @@ A curated collection of recent RGB-D/RGB-T salient object detection papers, code
 
 ---
 
-## RGB-D-T / VDT SOD Papers
+## 3. VDT SOD Papers
 
 ## 2026
 
