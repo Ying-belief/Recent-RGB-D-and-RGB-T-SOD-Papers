@@ -69,7 +69,7 @@ This repository mainly collects representative papers on **RGB-D/RGB-T salient o
 
 | No. | Pub. | Title | Links |
 |:---:|:----:|-------|:-----:|
-| 01 | - | Paper Title | [Paper](-) / [Code] |
+| 01 | AAAI | Alignment-Free RGB-T Salient Object Detection: A Large-Scale Dataset and Progressive Correlation Network | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32838) / [Code] |
 | 02 | - | Paper Title | [Paper](-) / [Code] |
 | 03 | - | Paper Title | [Paper](-) / [Code] |
 | 04 | - | Paper Title | [Paper](-) / [Code] |
