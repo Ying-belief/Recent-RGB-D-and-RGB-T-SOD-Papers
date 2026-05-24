@@ -25,6 +25,30 @@ This repository mainly collects representative papers on **RGB-D/RGB-T salient o
 | 05 | AAAI | SAM-DAQ: Segment Anything Model with Depth-guided Adaptive Queries for RGB-D Video Salient Object Detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37629) / [Code] |
 | 06 | IEEE TMM | Learning Semantic-level Multi-modal Alignment Transformer for RGB-D Co-salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11427030) / [Code] |
 
+## 2025
+
+| No. | Pub. | Title | Links |
+|:---:|:----:|-------|:-----:|
+| 01 | IEEE TIP | Lightweight RGB-D Salient Object Detection From a Speed-Accuracy Tradeoff Perspective | [Paper](https://ieeexplore.ieee.org/abstract/document/10970446) / [Code](https://github.com/duan-song/SATNet) |
+| 02 | IEEE TMM | STENet: Superpixel Token Enhancing Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11474739) / [Code] |
+| 03 | IEEE TCSVT | Diffusion-driven RGB-D Salient Object Detection with Temporal Modulation | [Paper](https://ieeexplore.ieee.org/abstract/document/11483127) / [Code](https://github.com/Shixiang02/DiffRGBD) |
+| 04 | IEEE TMM | DPPNet: A Depth Pixel-Wise Potential-Aware Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10882929) / [Code] |
+| 05 | - | Paper Title | [Paper](-) / [Code] |
+| 06 | - | Paper Title | [Paper](-) / [Code] |
+| 07 | - | Paper Title | [Paper](-) / [Code] |
+
+## 2024
+
+| No. | Pub. | Title | Links |
+|:---:|:----:|-------|:-----:|
+| 01 | - | Paper Title | [Paper](-) / [Code] |
+| 02 | - | Paper Title | [Paper](-) / [Code] |
+| 03 | - | Paper Title | [Paper](-) / [Code] |
+| 04 | - | Paper Title | [Paper](-) / [Code] |
+| 05 | - | Paper Title | [Paper](-) / [Code] |
+| 06 | - | Paper Title | [Paper](-) / [Code] |
+| 07 | - | Paper Title | [Paper](-) / [Code] |
+
 ---
 
 ## 2. RGB-T SOD Papers
@@ -37,6 +61,30 @@ This repository mainly collects representative papers on **RGB-D/RGB-T salient o
 | 02 | IEEE TCSVT | Empirical Study on Fusion Strategy in RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11386836) / [Code] |
 | 03 | AAAI | Breaking Alignment Barriers: TPS-Driven Semantic Correlation Learning for Alignment-Free RGB-T Salient Object Detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/42492) / [Code] |
 | 04 | IEEE TCSVT | RSONet: Region-guided Selective Optimization Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11428245) / [Code] |
+| 05 | - | Paper Title | [Paper](-) / [Code] |
+| 06 | - | Paper Title | [Paper](-) / [Code] |
+| 07 | - | Paper Title | [Paper](-) / [Code] |
+
+## 2025
+
+| No. | Pub. | Title | Links |
+|:---:|:----:|-------|:-----:|
+| 01 | - | Paper Title | [Paper](-) / [Code] |
+| 02 | - | Paper Title | [Paper](-) / [Code] |
+| 03 | - | Paper Title | [Paper](-) / [Code] |
+| 04 | - | Paper Title | [Paper](-) / [Code] |
+| 05 | - | Paper Title | [Paper](-) / [Code] |
+| 06 | - | Paper Title | [Paper](-) / [Code] |
+| 07 | - | Paper Title | [Paper](-) / [Code] |
+
+## 2024
+
+| No. | Pub. | Title | Links |
+|:---:|:----:|-------|:-----:|
+| 01 | - | Paper Title | [Paper](-) / [Code] |
+| 02 | - | Paper Title | [Paper](-) / [Code] |
+| 03 | - | Paper Title | [Paper](-) / [Code] |
+| 04 | - | Paper Title | [Paper](-) / [Code] |
 | 05 | - | Paper Title | [Paper](-) / [Code] |
 | 06 | - | Paper Title | [Paper](-) / [Code] |
 | 07 | - | Paper Title | [Paper](-) / [Code] |
