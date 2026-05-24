@@ -22,8 +22,8 @@ This repository mainly collects representative papers on **RGB-D/RGB-T salient o
 | 02 | IEEE TMM | STENet: Superpixel Token Enhancing Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11474739) / [Code] |
 | 03 | IEEE TMM | Cross-Modal Fusion with Mixture-of-Experts for Efficient RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11441976) / [Code] |
 | 04 | IEEE TCSVT | NESS-Net: An NAMLab Edge-Guided and Scribble-Supervised Swin-Transformer Net for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11430602) / [Code](https://github.com/EricLie-c/NESS-Net) |
-| 05 | - | Paper Title | [Paper](-) / [Code] |
-| 06 | - | Paper Title | [Paper](-) / [Code] |
+| 05 | AAAI | SAM-DAQ: Segment Anything Model with Depth-guided Adaptive Queries for RGB-D Video Salient Object Detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37629) / [Code] |
+| 06 | IEEE TMM | Learning Semantic-level Multi-modal Alignment Transformer for RGB-D Co-salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11427030) / [Code] |
 | 07 | - | Paper Title | [Paper](-) / [Code] |
 
 ---
