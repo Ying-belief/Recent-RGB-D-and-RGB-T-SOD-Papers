@@ -1,6 +1,8 @@
 # Recent-RGB-D-and-RGB-T-SOD-Papers
 A curated collection of recent RGB-D/RGB-T salient object detection papers, code, and notes.
 
+---
+
 ## Selection Scope
 
 This repository mainly collects representative papers on **RGB-D/RGB-T salient object detection** published in top-tier conferences and journals from **2024 to 2026**.
